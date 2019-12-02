@@ -1,7 +1,7 @@
 # StudentManagerApp
-This is an basic framework template for a Student manager app
+This is an basic framework template for a Boxer manager app
 
-My Name is Daniel
+My Name is Ben
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/danielcregg/student-manager-app-lab-current)
 
